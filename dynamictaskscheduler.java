@@ -1,3 +1,4 @@
+
 import java.util.PriorityQueue;
 import java.util.ArrayList;
 import java.util.List;
@@ -22,7 +23,7 @@ class DynamicJob implements Comparable<DynamicJob> {
     }
 }
 
-public class DynamicTaskScheduler {
+public class dynamictaskscheduler {
     public static void main(String[] args) {
         PriorityQueue<DynamicJob> jobQueue = new PriorityQueue<>();
         List<DynamicJob> jobs = new ArrayList<>();
