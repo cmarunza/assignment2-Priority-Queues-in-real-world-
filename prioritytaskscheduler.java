@@ -23,7 +23,7 @@ class JobWithPriority implements Comparable<JobWithPriority> {
     }
 }
 
-public class PriorityTaskScheduler {
+public class prioritytaskscheduler {
     public static void main(String[] args) {
         PriorityQueue<JobWithPriority> jobQueue = new PriorityQueue<>();
         try {
