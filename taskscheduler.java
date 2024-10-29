@@ -18,7 +18,7 @@ class Job implements Comparable<Job> {
     }
 }
 
-public class TaskScheduler {
+public class taskscheduler {
     public static void main(String[] args) {
         PriorityQueue<Job> jobQueue = new PriorityQueue<>();
         try {
@@ -50,3 +50,4 @@ public class TaskScheduler {
         System.out.println("Average completion time: " + averageCompletionTime);
     }
 }
+
