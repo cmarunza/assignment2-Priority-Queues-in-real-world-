@@ -1,4 +1,4 @@
-Authors, Christy Marunza 49131270, and Travis Pryor 49132635
+ Christy Marunza 49131270, and Travis Pryor 49132635
 
 
 Output: Task 1 
